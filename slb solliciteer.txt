@@ -1,0 +1,21 @@
+1.een programma maken voor een sollicitatie voor circusdirecteur
+2. een repository en een zip file
+3. er staan filmpjes in de opdracht
+4. ik heb nodig de bepaalde criteria en een visual studio code om d=het programma in te schrijven.
+5. ik maak de opdracht in mijn eentje 
+6. als de opdracht af is en goed werkt
+7. in itslearnig 'sollicitatie'
+8. Meer dan 4 jaar praktijkervaring met dieren-dressuur OF meer dan 5 jaar ervaring met jongleren OF meer dan 3 jaar praktijkervaring met acrobatiek
+In bezit van een Diploma MBO-4 ondernemen
+In bezit van een geldig Vrachtwagen rijbewijs
+In bezit van een hoge hoed
+Is man EN heeft Snor breder dan 10 cm OF is vrouw EN draagt rood krulhaar langer dan 20 cm
+Is langer dan 150 cm
+Is zwaarder dan 90 kg
+Heeft Certificaat “Overleven met gevaarlijk personeel”
+9.Aan degenie die wilt solliciteren
+10. ja om kans maken op de baan
+150 cm of langer 
+zwaarde dan 90 kg
+snor breder dan 10 cm
+rood krulhaar langer dan 20 cm
